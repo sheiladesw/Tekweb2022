@@ -1,0 +1,38 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/sheiladesw/tekweb2022/main/img/artikel01.png",
+        "judul": "Quarter Life Crisis ",
+        "author": "alodokter",
+        "tanggal": "12 November 2020",
+        "Sumber": "Pinterest",
+        "desc": "Saat seseorang berusia 18–30 tahun merasa tidak memiliki arah, khawatir, bingung, dan galau akan ketidakpastian",
+        "artikelnya": "artikel1.md"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sheiladesw/tekweb2022/main/img/artikel02.png",
+        "judul": "Opini-Generasi Muda Berkualitas Anti-NAPZA",
+        "author": "Sheila Deswita Ariyanto",
+        "tanggal": "19-Agustus-2021",
+        "Sumber": "Canva",
+        "desc": "Penyalahgunaan NAPZA sudah menjadi momok bagi masyarakat dan pemerintah sebagai wabah.. ",
+        "artikelnya": "artikel2.md"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sheiladesw/tekweb2022/main/img/artikel03.png",
+        "judul": "Marketing Communication",
+        "author": "Bussiness Jargona",
+        "tanggal": "2021",
+        "Sumber": "Pinterest",
+        "desc": "Marketing communication mengacu pada sarana yang diadopsi oleh perusahaan untuk .. ",
+        "artikelnya": "artikel3.md"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sheiladesw/tekweb2022/main/img/artikel04.png",
+        "judul": "Resto Kopi Konsep Unik di Kutabumi, Incaran Kaum Milenial",
+        "author": "wartabanten.id",
+        "tanggal": "16-Maret-2021",
+        "Sumber": "Pinterest",
+        "desc": "Kopi awalnya dicap sebagai minuman orang tua, kini banyak diminati anak muda. Semua tampilan ",
+        "artikelnya": "artikel4.md"
+    }
+]
